@@ -71,8 +71,8 @@ You can also use /dplay <song name> to play a song from Deezer.</b>
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-        InlineKeyboardButton('🤖 Other Bots', url='https://t.me/subin_works/122'),
+        InlineKeyboardButton('💫 My Group', url='https://t.me/status_4kworld'),
+        InlineKeyboardButton('❇️ Other Groups', url='https://t.me/astor_official'),
     ],
     [
         InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/subinps'),
@@ -94,8 +94,8 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-            InlineKeyboardButton('🤖 Other Bots', url='https://t.me/subin_works/122'),
+            InlineKeyboardButton('💫 My Group', url='https://t.me/status_4kworld'),
+            InlineKeyboardButton('❇️ Other Groups', url='https://t.me/subin_works/122'),
         ],
         [
             InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/subinps'),
